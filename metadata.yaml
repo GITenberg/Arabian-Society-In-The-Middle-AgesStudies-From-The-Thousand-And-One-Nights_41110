@@ -1,0 +1,37 @@
+_repo: Arabian-Society-In-The-Middle-AgesStudies-From-The-Thousand-And-One-Nights_41110
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 41110-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Lane, Edward William
+    alias: Lane, E. W. (Edward William)
+    birthdate: 1801
+    deathdate: 1876
+    gutenberg_agent_id: '36870'
+    url: http://www.gutenberg.org/2009/agents/36870
+  editor:
+    agent_name: Lane-Poole, Stanley
+    alias: Poole, Stanley Lane
+    birthdate: 1854
+    deathdate: 1931
+    gutenberg_agent_id: '25154'
+    url: http://www.gutenberg.org/2009/agents/25154
+description: ''
+gutenberg_issued: '2012-10-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41110'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DS'
+- !lcsh 'Islamic Empire -- Social life and customs'
+- !lcsh 'Arabian nights'
+- !lcsh 'Egypt -- Social life and customs'
+- !lcsh 'Social history -- Medieval, 500-1500'
+title: 'Arabian Society in the Middle Ages: Studies From The Thousand and One Nights'
+url: http://www.gutenberg.org/ebooks/41110
